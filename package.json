@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/bright-wealth-14b3n.figma-tokens-ljcew5qq",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve muZX5WjRWPDerAKCO7Fj --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
