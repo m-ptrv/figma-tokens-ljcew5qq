@@ -2,7 +2,7 @@
   "button": {
     "primary": {
       "background": {
-        "value": "lightblue",
+        "value": "blue",
         "type": "color"
       },
       "color": {
