@@ -93,7 +93,7 @@
     "button": {
       "primary": {
         "background": {
-          "value": "{core.colors.primary.500}",
+          "value": "blue",
           "type": "color"
         },
         "color": {
@@ -145,5 +145,11 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core",
+      "button"
+    ]
+  }
 }
