@@ -2,7 +2,7 @@
   "button": {
     "primary": {
       "background": {
-        "value": "{core.colors.primary.500}",
+        "value": "lightblue",
         "type": "color"
       },
       "color": {
@@ -139,6 +139,16 @@
           "type": "color"
         }
       }
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "core",
+      "type": "other"
+    },
+    "1": {
+      "value": "button",
+      "type": "other"
     }
   }
 }
